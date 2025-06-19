@@ -27,6 +27,7 @@ namespace Geometry_2
 			new Triangle(4, 5, 3, Color.Purple)
 		};
 
+			// Меню
 			Console.WriteLine("Выберите фигуру:");
 			for (int i = 0; i < shapes.Count; i++)
 			{
